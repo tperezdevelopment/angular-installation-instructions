@@ -23,13 +23,12 @@
     </li>
 </ol>
 <hr>
-<h2>Using Angular Version 13.3.0</h2>
+<h2>Using Angular Version 13.3.0 as the specific version</h2>
 <h3>As a global installation</h3>
   <ol>
          <li>Run: <code>npm install -g @angular/cli@13.3.0</code></li>
         <li>Run: <code>ng new older-version-app</code></li> 
     </ol>
-<hr>
     <h3>As a local installation</h3>
   <ol>
          <li>cd to the folder where you will install the local Angular version</li>   
