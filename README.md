@@ -1,12 +1,12 @@
-# angular-installation-instructions
-<h1>Installation an Angular Specific Version</h1>
+# Installation an Angular Specific Version
+
 <hr>
 <h2> Before Installation </h2>
 <ol>
     <li>
-      <h3>Install nvm for Windows</h3>
+      <h3>Install nvm for Windows to use multiple nodejs versions</h3>
       <ol>
-        <li>Download from: <a href="https://github.com/coreybutler/nvm-windows/releases" target="_blank">GitHub</a></li>
+        <li>Download from: <a href="https://github.com/coreybutler/nvm-windows/releases" target="_blank">NVM GitHub</a></li>
         <li>For installing and running Node.js version 18
           <ol>
             <li>Run: <code>nvm install 18</code></li>
@@ -28,13 +28,10 @@
          <li>Run: <code>npm install -g @angular/cli@13.3.0</code></li>
         <li>Run: <code>ng new older-version-app</code></li> 
     </ol>
-
+<hr>
     <h3>As a local installation</h3>
   <ol>
          <li>cd to the folder where you will install the local Angular version</li>   
          <li>Run: <code>npm install @angular/cli@13.3.0</code></li>
         <li>Run: <code>npx ng new older-version-app</code></li> 
     </ol>
-  
-
-  
