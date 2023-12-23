@@ -12,9 +12,10 @@
             <li>Run: <code>nvm install 18</code></li>
             <li>Run: <code>nvm use 18</code></li>
           </ol>
-      </li>
-         <li>
-      <h2>Cleaning Angular Global Version Already Installed</h2>
+        </li>
+        </ol>
+      <li>
+      <h3>Cleaning Angular Global Version Already Installed</h3>
       <ol>
         <li>Run: <code>npm uninstall -g @angular/cli</code></li>
         <li>Run: <code>npm cache clean --force</code></li>
