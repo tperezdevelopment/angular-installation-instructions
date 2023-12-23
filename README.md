@@ -1,6 +1,4 @@
 # Installation an Angular Specific Version
-
-<hr>
 <h2> Before Installation </h2>
 <ol>
     <li>
@@ -22,7 +20,6 @@
       </ol>
     </li>
 </ol>
-<hr>
 <h2>Using Angular Version 13.3.0 as the specific version</h2>
 <h3>As a global installation</h3>
   <ol>
